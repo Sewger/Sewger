@@ -13,13 +13,10 @@
 </div><div style="display: inline_block"><br/>
 <img align="center" alt="html5" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
+</div><div style="display: inline_block"><br/>
+<img align="center" alt="html5" src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div>
 
 Apaixonado por tecnologia, desenvolvedor e estudante, caçando grandes coisas...
 
-## Ultimos videos :
-- [O SUCESSO](https://youtube.com/shorts/lkPPJpXsvDQ?feature=share)<br/>
-
-- [NÃO DESISTA](https://youtube.com/shorts/OG9E2-3XzmE?feature=share)<br/>
-
-- [TUDO TEM UM COMEÇO](https://youtube.com/shorts/Ny6hPseIqhs?feature=share)<br/>
 
